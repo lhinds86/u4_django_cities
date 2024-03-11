@@ -33,7 +33,11 @@ In your SQL file, create a Database called "Djourneys", with a user of "Djourney
 1) Create a Django project with 3 related models, Cities -> Attractions -> Reviews
 2) There should be at least 2 cities, with 3 attractions each. Add at least 2 reviews to at least 2 attractions
 
-### Pt 2:
+### Pt 2 -> Do NOT attempt this until we cover DRF and Serializers!
 
 1) Convert this project to a RESTful API using the Django Rest Framework
 2) Each Model should have an Index/List route, and a Show/Detail route to view
+
+### Bonus
+
+1) Use a front end engine (React or Vanilla JS) and the Axios library to pull, render, and style this data on your browser!
