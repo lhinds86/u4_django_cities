@@ -22,6 +22,8 @@ In this lab, we'll build an app called Djourneys, an app for tracking travel att
 
 ## Setup
 
+### Pt 1: 
+
 Read through the setup instructions from our previous labs
 
 The goal of this app is to have a full-CRUD application with a functioning Admin panel
@@ -33,3 +35,8 @@ In your SQL file, create a Database called "Djourneys", with a user of "Djourney
 
 1) Create a Django project with 3 related models, Cities -> Attractions -> Reviews
 2) There should be at least 2 cities, with 3 attractions each. Add at least 2 reviews to at least 2 attractions
+
+### Pt 2:
+
+1) Convert this project to a RESTful API using the Django Rest Framework
+2) Each Model should have an Index/List route, and a Show/Detail route to view
