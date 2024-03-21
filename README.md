@@ -31,7 +31,8 @@ In your SQL file, create a Database called "Djourneys", with a user of "Djourney
 ### Pt 1: 
 
 1) Create a Django project with 3 related models, Cities -> Attractions -> Reviews
-2) There should be at least 2 cities, with 3 attractions each. Add at least 2 reviews to at least 2 attractions
+2) Add whatever properties you think each model should have, but each should have at least 3 different properties with at least 2 different field types
+3) There should be at least 2 cities, with 3 attractions each. Add at least 2 reviews to at least 2 attractions
 
 ### Pt 2 -> Do NOT attempt this until we cover DRF and Serializers!
 
